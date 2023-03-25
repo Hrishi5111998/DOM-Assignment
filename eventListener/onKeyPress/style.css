@@ -1,0 +1,11 @@
+#display{
+    color: cyan;
+}
+
+#input-box{
+    font-size: 25px;
+}
+body{
+    display: grid;
+    place-items: center;
+}
